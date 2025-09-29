@@ -10,7 +10,7 @@ public class student {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		this.name=name;
+		this.age=age;
 
 	}
 
